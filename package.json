@@ -1,17 +1,18 @@
 {
-  "name": "create-react-app",
-  "version": "1.0.0",
+  "name": "reactey",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "jss": "latest",
-    "jss-preset-default": "latest",
-    "material-ui": "next",
-    "prop-types": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "react-jss": "latest",
-    "react-scripts": "latest",
-    "recompose": "latest"
+    "material-ui": "^1.0.0-beta.18",
+    "material-ui-icons": "^1.0.0-beta.17",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-redux": "^5.0.6",
+    "react-scripts": "1.0.14",
+    "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
+    "redux-promise": "^0.5.3",
+    "redux-thunk": "^2.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
